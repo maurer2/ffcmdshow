@@ -2,6 +2,8 @@
 
 Add some feline flair to the Powerlevel10k (https://github.com/romkatv/powerlevel10k) command line theme using emojis and nerd-fonts (https://www.nerdfonts.com/cheat-sheet).
 
+Changes need to be made int the `p10k.zsh` config file, which is automatically created in the user's home directory during the p10k installation, e.g. `/Users/$username/.p10k.zsh`
+
 ## Positions
 
 ![All positions](./screenshot.png)
